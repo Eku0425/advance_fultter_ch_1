@@ -1,16 +1,13 @@
 # advance_fultter_ch_1
+# Switch Dark Theme to Light Theme
 
-A new Flutter project.
+<img src="https://github.com/Eku0425/advance_fultter_ch_1/assets/149374328/3d3050c0-cd7b-4458-a56c-d48c1733b7aa" height=25% width=25%>
+<img src="https://github.com/Eku0425/advance_fultter_ch_1/assets/149374328/f2f2c68f-bf63-43bd-87e5-55859ab89628" height=25% width=25%>
 
-## Getting Started
+# Exampal
+theme: ThemeData.light(),
+darkTheme: ThemeData.dark(),
+themeMode: isDark ? ThemeMode.dark : ThemeMode.light,
 
-This project is a starting point for a Flutter application.
+ If you want to use dark mode, just add darkTheme: ThemeData. dark()
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
