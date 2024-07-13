@@ -10,7 +10,7 @@ darkTheme: ThemeData.dark(),
 themeMode: isDark ? ThemeMode.dark : ThemeMode.light,
 
  If you want to use dark mode, just add darkTheme: ThemeData. dark()
-
+ 
 
 
 
